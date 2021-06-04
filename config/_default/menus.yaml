@@ -4,9 +4,13 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Trang Chủ
     url: /
     weight: 10
   - name: Documentation
     url: docs/
     weight: 20
+  - name: Jupyter
+    url: http://3.95.241.171:8888
+    weight: 30
+

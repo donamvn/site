@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'My Project' # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: 'Đỗ Nam Blog' # Website name
+baseurl: 'https://donam.vn' # Website URL
+copyright: '© 2021 Đỗ Nam - Donam.vn' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
