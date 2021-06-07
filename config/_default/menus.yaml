@@ -13,4 +13,6 @@ main:
   - name: Jupyter
     url: http://3.95.241.171:8888
     weight: 30
-
+  - name: StackEdit
+    url: http://donam.synology.me:1111/
+    weight: 40
