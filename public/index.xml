@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Đỗ Nam Blog</title>
+    <link>https://donam.vn/</link>
+      <atom:link href="https://donam.vn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Đỗ Nam Blog</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Đỗ Nam - Donam.vn</copyright><lastBuildDate>Mon, 07 Jun 2021 16:04:47 +0700</lastBuildDate>
+    <image>
+      <url>https://donam.vn/media/icon_hub0b31b2e0a82eb7811d72d963610ed94_55975_512x512_fill_lanczos_center_2.png</url>
+      <title>Đỗ Nam Blog</title>
+      <link>https://donam.vn/</link>
+    </image>
+    
+    <item>
+      <title>1. Get Link Direct Google Drive</title>
+      <link>https://donam.vn/docs/mynotes/1getdirectlinkgd/</link>
+      <pubDate>Mon, 07 Jun 2021 14:53:26 +0700</pubDate>
+      <guid>https://donam.vn/docs/mynotes/1getdirectlinkgd/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Get link shareable&lt;/li&gt;
+&lt;li&gt;Get &lt;strong&gt;ID file&lt;/strong&gt; and paste here&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/uc?id=&#34;&gt;https://drive.google.com/uc?id=&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phần mềm giải nén WinRAR</title>
+      <link>https://donam.vn/docs/softwares/1winrar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://donam.vn/docs/softwares/1winrar/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;WinRAR&lt;/strong&gt; là một phần mềm nén file nổi tiếng, nó được sử dụng để backup (sao lưu) dữ liệu và giảm kích cỡ các file đính kèm của email.&lt;/p&gt;
+&lt;h2 id=&#34;chức-năng&#34;&gt;Chức năng:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Giúp mở và giải nén (unpack) các file có định dạng nén phổ biến như RAR, ZIP… khi tải từ internet hoặc tạo mới các định dạng file đó.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;link-tải&#34;&gt;Link tải:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Trang chủ&lt;/strong&gt;
+&lt;a href=&#34;https://www.rarlab.com/download.htm&#34;&gt;https://www.rarlab.com/download.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link mở rộng:&lt;/strong&gt;
+&lt;a href=&#34;http://gg.gg/uuwot&#34;&gt;http://gg.gg/uuwot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lưu ý: Hiện tại định dạng nén rar có phân ra làm 2 loại là:  &lt;strong&gt;rar (định dạng mới)&lt;/strong&gt;  và &lt;strong&gt;rar4 (định dạng dành cho các phiên bản win rar trước đây phiên bản trước version 4)&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chuyển Đổi PDF sang Word bằng Google Drive</title>
+      <link>https://donam.vn/docs/tips/pdftowordggd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://donam.vn/docs/tips/pdftowordggd/</guid>
+      <description>&lt;h2 id=&#34;hướng-dẫn-chuyển-pdf-sang-doc-sử-dụng-google-drive&#34;&gt;&lt;strong&gt;HƯỚNG DẪN CHUYỂN PDF SANG DOC SỬ DỤNG GOOGLE DRIVE&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Bạn thực hiện theo các bước hướng dẫn sau để  chuyển PDF sang Word DOC trên Google Drive:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bước 1:&lt;/em&gt;&lt;/strong&gt; Đăng nhập vào tài khoản Google Drive, sau đó tìm tới tài liệu PDF muốn tạo và chỉnh sửa.&lt;/p&gt;
+&lt;p&gt;Nếu như chưa có tài liệu PDF, bạn chỉ việc kéo thả tài liệu PDF từ màn hình Desktop vào trong khung cửa sổ trình duyệt để tải lên Google Drive. Tài liệu PDF sau khi đã được tải lên Google Drive sẽ giống như hình ảnh dưới.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://drive.google.com/uc?id=1LnxvUNWsaLsxqCSmQkEO1JcOz9hMv4Pt&#34; alt=&#34;Upload bằng cách kéo thả&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bước 2:&lt;/em&gt;&lt;/strong&gt; Nhấp chuột phải lên PDF trong Google Drive hoặc file PDF vừa tải lên -&amp;gt; chọn  &lt;strong&gt;Mở bằng&lt;/strong&gt;  (Open With) -&amp;gt; chọn  &lt;strong&gt;Google Docs&lt;/strong&gt;.
+&lt;img src=&#34;https://drive.google.com/uc?id=1M2cATt9Y1y9mwh37QXeIgp2_L6O6Diqn&#34; alt=&#34;Mở file vừa upload bằng Docs&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bước 3:&lt;/em&gt;&lt;/strong&gt; Tiếp theo, bạn nhấn  &lt;strong&gt;Tệp&lt;/strong&gt; (File) -&amp;gt;&lt;strong&gt;Tải xuống dưới dạng&lt;/strong&gt; (Download as) -&amp;gt; chọn  &lt;strong&gt;Microsoft Word&lt;/strong&gt; (.docx).&lt;/p&gt;
+&lt;p&gt;Bạn đặt tên file PDF và lựa chọn thư mục lưu trữ file Word (.docx). Nhấn  &lt;strong&gt;Save&lt;/strong&gt; để lưu lại.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://drive.google.com/uc?id=1Ls2FZFJfUQhcD3laerlW-8X8biJNMKtN&#34; alt=&#34;Lưu file docs&#34;&gt;
+Mở file bạn vừa lưu vậy là bạn đã chuyển đổi xong.&lt;/p&gt;
+&lt;p&gt;Bạn thấy đấy, việc  &lt;strong&gt;Chuyển PDF sang DOC sử dụng Google Drive&lt;/strong&gt; không quá khó để bạn thực hiện phải không nào! Từ giờ trở đi, ngoài việc sử dụng phần mềm chuyên biệt để chuyển đổi định dạng PDF sang DOC thì bạn có thể  sử dụng Google Drive&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2. Set Storage Onedrive</title>
+      <link>https://donam.vn/docs/mynotes/2setstoreageonedrive/</link>
+      <pubDate>Mon, 07 Jun 2021 16:04:47 +0700</pubDate>
+      <guid>https://donam.vn/docs/mynotes/2setstoreageonedrive/</guid>
+      <description>&lt;p&gt;You must have known that OneDrive for Business storage has a limitation of 1TB but what if you have utilized the full capacity (1TB). There is no such announcement for the same, but the limit is not 1TB.  &lt;strong&gt;In this article, we will see how we can increase the storage capacity for OneDrive for Business up to 5TB through PowerShell.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As per one of the Microsoft articles “&lt;strong&gt;If your organization has a qualifying Office 365 plan and 5 or more users, you can change the storage space to more than 5TB&lt;/strong&gt;”. So as per this statement, we can get more than 5TB as well. That means the limitation is not 5TB as well.&lt;/p&gt;
+&lt;p&gt;Increasing the storage from 1TB to 5TB can be done with the help of your Microsoft 365 Administrator through PowerShell, but going beyond 5TB, you will need the help of Microsoft Support with justification and then it might get increased up to 25TB quota.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://drive.google.com/uc?id=1M7NAsAb8673dFIH61mwRdPpK1wQ3boyt&#34; alt=&#34;Infographic&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pre-requisites:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Download SharePoint Online Management Shell.
+**&lt;a href=&#34;https://www.microsoft.com/en-us/download/details.aspx?id=35588&#34;&gt;https://www.microsoft.com/en-us/download/details.aspx?id=35588&lt;/a&gt;
+**&lt;/li&gt;
+&lt;li&gt;Connect to SharePoint Online through PowerShell.
+&lt;strong&gt;&lt;em&gt;$adminUPN=”&lt;the full email address of administrator account&gt;”
+$orgName=”&amp;lt;name of your Office 365 organization&amp;gt;”&lt;/em&gt;&lt;/strong&gt;&lt;img src=&#34;https://cdn-angbj.nitrocdn.com/shObXeyLxXflGAhcIcxEKCbyevxxnCNO/assets/static/optimized/rev-0abd59b/wp-content/uploads/2020/02/1-9.png&#34; alt=&#34;Connecting to SPO PowerShell&#34;&gt;
+&lt;strong&gt;&lt;em&gt;$userCredential = Get-Credential -UserName &lt;the full email address of administrator account&gt;
+&lt;em&gt;&lt;strong&gt;This is prompt to enter Message, enter the admin account password and hit enter.&lt;img src=&#34;https://cdn-angbj.nitrocdn.com/shObXeyLxXflGAhcIcxEKCbyevxxnCNO/assets/static/optimized/rev-0abd59b/wp-content/uploads/2020/02/2-11.png&#34; alt=&#34;SPO Admin Credentials&#34;&gt;&lt;/strong&gt;&lt;/em&gt;
+Connect-SPOService -Url https://$orgName-admin.sharepoint.com -Credential $userCredential
+&lt;em&gt;**You will be prompted to provide admin credentials.
+**&lt;/em&gt;
+&lt;img src=&#34;https://cdn-angbj.nitrocdn.com/shObXeyLxXflGAhcIcxEKCbyevxxnCNO/assets/static/optimized/rev-0abd59b/wp-content/uploads/2020/02/3-11.png&#34; alt=&#34;Connect SPO Site&#34;&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;**Increasing the storage quota for OneDrive for Business:
+**&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Check the current set quota for a user.
+&lt;strong&gt;&lt;em&gt;Get-SPOSite -Identity &amp;lt;User’s OneDrive URL&amp;gt; | select $StorageQuota&lt;/em&gt;&lt;/strong&gt;
+&lt;strong&gt;Note: – Storage quota is in MB.&lt;/strong&gt;&lt;img src=&#34;https://cdn-angbj.nitrocdn.com/shObXeyLxXflGAhcIcxEKCbyevxxnCNO/assets/static/optimized/rev-0abd59b/wp-content/uploads/2020/02/4-10.png&#34; alt=&#34;Check Storage for a user&#34;&gt;&lt;/li&gt;
+&lt;li&gt;Change the storage quota for a specific user.
+**_Set-SPOSite -Identity &amp;lt;User’s OneDrive URL&amp;gt; -StorageQuota $StorageSize
+_Note: – Replace  &lt;em&gt;$StorageSize&lt;/em&gt;  with 5242880 (MB) which is 5TB
+**&lt;/li&gt;
+&lt;li&gt;To verify the change, run cmd  &lt;strong&gt;_Get-SPOSite -Identity &amp;lt;User’s OneDrive URL&amp;gt; | select $StorageQuota
+&lt;img src=&#34;https://cdn-angbj.nitrocdn.com/shObXeyLxXflGAhcIcxEKCbyevxxnCNO/assets/static/optimized/rev-0abd59b/wp-content/uploads/2020/02/5-10.png&#34; alt=&#34;Set storage for a user&#34;&gt;
+_&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can also verify the same from  &lt;strong&gt;Office 365 Admin Center &amp;gt; Active Users &amp;gt; Select User &amp;gt; OneDrive.&lt;/strong&gt;
+&lt;img src=&#34;https://cdn-angbj.nitrocdn.com/shObXeyLxXflGAhcIcxEKCbyevxxnCNO/assets/static/optimized/rev-0abd59b/wp-content/uploads/2020/02/6-9.png&#34; alt=&#34;Verify &#34;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This article will help you to increase storage quota for OneDrive for Business up to 5TB without any need of calling Microsoft Support. If you need to increase it more than 5TB then you will need to take help from Microsoft Support with justification. Thanks!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adobe Acrobat Pro 11 - Phần mềm đọc và chỉnh sửa PDF</title>
+      <link>https://donam.vn/docs/softwares/2acrobatreader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://donam.vn/docs/softwares/2acrobatreader/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Là ứng dụng tạo và chỉnh sửa PDF chuyên nghiệp, mang đến cho người dùng những công cụ hữu ích nhất để thao tác với các tài liệu PDF của mình như tạo form, ký, bảo vệ PDF, nối, chia nhỏ PDF, xuất PDF sang nhiều định dạng khác nhau hoặc chia sẻ chúng dễ dàng.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;tính-năng-chính&#34;&gt;Tính Năng Chính&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Giao diện cải tiến&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Một trong số những điểm ấn tượng đầu tiên với  &lt;strong&gt;Acrobat XI Pro&lt;/strong&gt;  chính là giao diện đẹp mắt của sản phẩm. Các phiên bản cũ sử dụng thanh công cụ và hệ thống menu theo phong cách Microsoft Office 2003. Trong khi đó, Acrobat XI Pro được tân trang bằng giao diện bóng bẩy Ribbon.&lt;/p&gt;
+&lt;p&gt;Thanh công cụ được tăng kích thước lên gấp đôi với hàng loạt biểu tượng xử lý “nóng”. Thanh Tools cải tiến chứa tất cả các tính năng còn lại. Khi nhấn vào đây, một bảng hiện ra chứa các nhãn Pages, Context, Forms, Recognize Text…Nhấn tiếp vào các nhãn này, hàng loạt tính năng cụ thể sẽ xuất hiện, được sắp xếp gọn gàng.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://e.dowload.vn/Data/image/VanPhong/2011/06/15/Adobe-Acrobat-X-Pro3.jpg&#34; alt=&#34;Adobe Acrobat X Pro&#34;&gt;
+&lt;em&gt;Giao diện của phần mềm tạo PDF Adobe Acrobat Pro XI&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Giao diện bắt mắt, khả năng xử lý tốt hơn, thêm nhiều tính năng cao cấp là những gì gây ấn tượng từ Acrobat X&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Một trong những điểm cải tiến ở giao diện mới là sự xuất hiện của nút Create phía trên thanh công cụ. Khi nhấn vào, một danh sách tùy chọn sổ xuống giúp người dùng dễ dàng đưa ra phương án tạo tập tin PDF thích hợp. Ở phiên bản cũ, khi nhấn vào nút Creat để tạo tập tin PDF từ máy scan, người dùng phải quyết định mỗi lần thực hiện, sẽ chọn ảnh màu hay đen trắng. Trong khi đó,  &lt;strong&gt;Acrobat Pro 11&lt;/strong&gt;  cho phép tự động chọn chế độ hiển thị tốt nhất. Điều đó có nghĩa, người dùng sẽ không phải nhọc công đưa ra tùy chọn của mình mỗi khi dữ liệu nhập vào từ máy quét thay đổi.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nhiều tính năng cao cấp&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Một trong số những tính năng chắc chắn sẽ làm nhóm người dùng trong các doanh nghiệp, cơ sở giáo dục cảm thấy hài lòng là khả năng tự động tập hợp dữ liệu từ các bảng biểu trên tập tin PDF của  &lt;strong&gt;Acrobat XI Pro&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Bộ công cụ cũng cho phép người dùng thêm vào các ghi chú, nhận xét trên tập tin PDF để gửi lại tác giả. Người nhận có thể dễ dàng thấy được nhận xét khác nhau của người kiểm tra trên một tập tin duy nhất. Các nhận xét hiển thị theo tầng bậc, nhận xét mới nhất hiển thị ở phía phải cửa sổ. Kết hợp với khả năng tập hợp dữ tự động, người dùng có thể thông qua dịch vụ miễn phí Acrobat hoặc máy chủ riêng để giữ lại các bản sao lưu, gửi mail tới đối tác, người kiểm duyệt địa chỉ tập tin.&lt;/p&gt;
+&lt;p&gt;Một trong số những tính năng hấp dẫn khác của  &lt;strong&gt;Acrobat Pro 11&lt;/strong&gt;  là công cụ Action, cho phép bạn thực hiện hàng loạt tác vụ với một vài cú nhấn chuột, chẳng hạn bỏ chế độ ẩn dữ liệu, tối ưu hóa tập tin trước khi xuất bản. Tùy chọn Action có sẵn 7 lệnh tích hợp, trong đó có các lệnh thường dùng như quét tập tin sang PDF, bỏ các dữ liệu nhạy cảm trên tập tin đang biên tập…&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://e.dowload.vn/data/image/2016/04/11/Adobe-Acrobat-pro-ky-pdf.jpg&#34; alt=&#34;Tính năng ký trên PDF của Adobe Acrobaat Pro XI&#34; title=&#34;Tính năng ký trên PDF của Adobe Acrobaat Pro XI&#34;&gt;
+&lt;em&gt;Tính năng ký tên trực tiếp trên file PDF của Adobe Acrobaat Pro XI&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;đặc-điểm-nổi-bật&#34;&gt;Đặc Điểm Nổi Bật&lt;/h2&gt;
+&lt;p&gt;Là trình xử lý các tác vụ liên quan tới PDF tốt nhất hiện nay,  &lt;strong&gt;Acrobat X&lt;/strong&gt;  còn trở nên mạnh mẽ hơn với hàng loạt tính năng tự động, hỗ trợ công việc. Người dùng có thể dễ dàng biên soạn, đọc và quản lý các tập tin PDF. Với giá 199 USD, đây là giải pháp hoàn hảo dành cho các nhà xuất bản, công ty truyền thông…&lt;/p&gt;
+&lt;p&gt;Khả năng tự động trích xuất dữ liệu từ các bảng biểu trên tập tin PDF sang Excel gây ấn tượng mạnh. Hiện đang ở trong gian đoạn thử nghiệm, Acrobat X vẫn chưa thực sự hoàn hảo, tính năng tích hợp Optical Character Reading (nhận diện kí tự quang) vẫn còn kém so với các phần mềm OCR của hãng thứ 3.&lt;/p&gt;
+&lt;h3 id=&#34;ưu-điểm&#34;&gt;Ưu điểm&lt;/h3&gt;
+&lt;p&gt;Được xem là bộ ứng dụng xử lý PDF mạnh mẽ nhất hiện nay. Giao diện đẹp mắt, nhiều tính năng tự động, khả năng xuất tập tin từ PDF sang Word và Excel mạnh mẽ.&lt;/p&gt;
+&lt;h3 id=&#34;hạn-chế&#34;&gt;Hạn chế&lt;/h3&gt;
+&lt;p&gt;Tính năng nhận diện kí tự quang chưa bằng một số phần mềm chuyên dụng, giá còn khá đắt là những gì Acrobat XI Pro còn hạn chế.&lt;/p&gt;
+&lt;h2 id=&#34;link-tải&#34;&gt;Link tải:&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;http://gg.gg/uuws6
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;cách-cài-đặt&#34;&gt;Cách Cài Đặt&lt;/h2&gt;
+&lt;p&gt;Đây là bản repack nên việc cài đặt chỉ việc giải nén và chạy file setup là xong.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google Drive - Phần mềm đồng bộ dữ liệu trực tuyến</title>
+      <link>https://donam.vn/docs/softwares/3googledive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://donam.vn/docs/softwares/3googledive/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu&#34;&gt;Giới thiệu&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Google Drive&lt;/strong&gt; là dịch vụ lưu trữ và đồng bộ hóa tập tin được tạo bởi &lt;strong&gt;Google&lt;/strong&gt; Nó cho phép người dùng có thể lưu trữ tập tin trên đám mây chia sẻ tập tin, và chỉnh sửa tài liệu, văn bản, bảng tính, và bài thuyết trình với cộng tác viên. Google Drive bao gồm &lt;strong&gt;Google Docs&lt;/strong&gt;, &lt;strong&gt;Sheets&lt;/strong&gt;, và &lt;strong&gt;Slides&lt;/strong&gt;, một bộ phần mềm văn phòng cho phép chỉnh sửa tài liệu, bảng tính, thuyết trình, bản vẽ, biểu mẫu,&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Google drive có 2 cách sử dụng chính là&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Sử dụng trực tiếp trên trang web: &lt;a href=&#34;http://drive.google.com/&#34;&gt;http://drive.google.com/&lt;/a&gt;
+&lt;img src=&#34;https://drive.google.com/uc?id=1LIm6WFs5eGEWVso1WQAjWHqjKx4c-KbF&#34; alt=&#34;Sử dụng drive trên web&#34;&gt;&lt;/li&gt;
+&lt;li&gt;Cài đặt phần mềm trên máy tính cá nhân theo địa chỉ:
+&lt;a href=&#34;https://www.google.com/intl/vi/drive/download/&#34;&gt;https://www.google.com/intl/vi/drive/download/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;hướng-dẫn-cài-đặt&#34;&gt;Hướng dẫn cài đặt:&lt;/h2&gt;
+&lt;p&gt;(đây là  hướng dẫn dành cho việc đồng bộ nhóm, thư mục dùng chung):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bộ cài đặt (&lt;a href=&#34;https://drive.google.com/uc?id=1LPys8ZbqpfPMby-6UXIHiYI_Tg840uDy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Win&lt;/a&gt;, &lt;a href=&#34;https://drive.google.com/uc?id=1LRiTIIbWcDwh8zzUzhmEVEOD6plk4o97&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mac&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Chọn dành cho nhóm:
+&lt;img src=&#34;https://drive.google.com/uc?id=1LDVXGS7S0cBRbh0RTRnosdo5jWVG7orA&#34; alt=&#34;Bước 1: Chọn mục dành cho nhóm&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Kéo xuống và tải phiên bản phù hợp với máy tính của bạn. (&lt;a href=&#34;http://gg.gg/uw3us&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link Dự Phòng) &lt;/a&gt;
+&lt;img src=&#34;https://drive.google.com/uc?id=1LIUlYR-BKSCf2aRNhkrfGC0ItbTo9KrE&#34; alt=&#34;Lựa chọn phiên bản phù hợp với máy&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cài đặt và đăng nhập vào tài khoản
+&lt;img src=&#34;https://drive.google.com/uc?id=1LUnwRWXCK_p8bt-gbg4x4PpR-7-5zKyT&#34; alt=&#34;Mở file cài đặt&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://drive.google.com/uc?id=1LctkQt5eO-XdWvBX2WwGkIvLAHChlo3D&#34; alt=&#34;Đồng ý mở file nếu windows chặn&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://drive.google.com/uc?id=1LiPyT7RD2TD2EoOBsTaNifX5vUm0beFN&#34; alt=&#34;Ấn install&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://drive.google.com/uc?id=1Ll91O7-E9bqM_Usj-sc5PyW7sR3xSZc4&#34; alt=&#34;Đăng nhập vào tài khoản google của bạn&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

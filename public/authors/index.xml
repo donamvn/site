@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Đỗ Nam Blog</title>
+    <link>https://donam.vn/authors/</link>
+      <atom:link href="https://donam.vn/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Đỗ Nam - Donam.vn</copyright>
+    <image>
+      <url>https://donam.vn/media/icon_hub0b31b2e0a82eb7811d72d963610ed94_55975_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://donam.vn/authors/</link>
+    </image>
+    
+  </channel>
+</rss>
