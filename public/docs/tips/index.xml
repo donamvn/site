@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thủ Thuật | Đỗ Nam Blog</title>
+    <link>https://donam.vn/docs/tips/</link>
+      <atom:link href="https://donam.vn/docs/tips/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thủ Thuật</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Đỗ Nam - Donam.vn</copyright>
+    <image>
+      <url>https://donam.vn/media/icon_hub0b31b2e0a82eb7811d72d963610ed94_55975_512x512_fill_lanczos_center_2.png</url>
+      <title>Thủ Thuật</title>
+      <link>https://donam.vn/docs/tips/</link>
+    </image>
+    
+    <item>
+      <title>Chuyển Đổi PDF sang Word bằng Google Drive</title>
+      <link>https://donam.vn/docs/tips/pdftowordggd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://donam.vn/docs/tips/pdftowordggd/</guid>
+      <description>&lt;h2 id=&#34;hướng-dẫn-chuyển-pdf-sang-doc-sử-dụng-google-drive&#34;&gt;&lt;strong&gt;HƯỚNG DẪN CHUYỂN PDF SANG DOC SỬ DỤNG GOOGLE DRIVE&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Bạn thực hiện theo các bước hướng dẫn sau để  chuyển PDF sang Word DOC trên Google Drive:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bước 1:&lt;/em&gt;&lt;/strong&gt; Đăng nhập vào tài khoản Google Drive, sau đó tìm tới tài liệu PDF muốn tạo và chỉnh sửa.&lt;/p&gt;
+&lt;p&gt;Nếu như chưa có tài liệu PDF, bạn chỉ việc kéo thả tài liệu PDF từ màn hình Desktop vào trong khung cửa sổ trình duyệt để tải lên Google Drive. Tài liệu PDF sau khi đã được tải lên Google Drive sẽ giống như hình ảnh dưới.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://drive.google.com/uc?id=1LnxvUNWsaLsxqCSmQkEO1JcOz9hMv4Pt&#34; alt=&#34;Upload bằng cách kéo thả&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bước 2:&lt;/em&gt;&lt;/strong&gt; Nhấp chuột phải lên PDF trong Google Drive hoặc file PDF vừa tải lên -&amp;gt; chọn  &lt;strong&gt;Mở bằng&lt;/strong&gt;  (Open With) -&amp;gt; chọn  &lt;strong&gt;Google Docs&lt;/strong&gt;.
+&lt;img src=&#34;https://drive.google.com/uc?id=1M2cATt9Y1y9mwh37QXeIgp2_L6O6Diqn&#34; alt=&#34;Mở file vừa upload bằng Docs&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bước 3:&lt;/em&gt;&lt;/strong&gt; Tiếp theo, bạn nhấn  &lt;strong&gt;Tệp&lt;/strong&gt; (File) -&amp;gt;&lt;strong&gt;Tải xuống dưới dạng&lt;/strong&gt; (Download as) -&amp;gt; chọn  &lt;strong&gt;Microsoft Word&lt;/strong&gt; (.docx).&lt;/p&gt;
+&lt;p&gt;Bạn đặt tên file PDF và lựa chọn thư mục lưu trữ file Word (.docx). Nhấn  &lt;strong&gt;Save&lt;/strong&gt; để lưu lại.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://drive.google.com/uc?id=1Ls2FZFJfUQhcD3laerlW-8X8biJNMKtN&#34; alt=&#34;Lưu file docs&#34;&gt;
+Mở file bạn vừa lưu vậy là bạn đã chuyển đổi xong.&lt;/p&gt;
+&lt;p&gt;Bạn thấy đấy, việc  &lt;strong&gt;Chuyển PDF sang DOC sử dụng Google Drive&lt;/strong&gt; không quá khó để bạn thực hiện phải không nào! Từ giờ trở đi, ngoài việc sử dụng phần mềm chuyên biệt để chuyển đổi định dạng PDF sang DOC thì bạn có thể  sử dụng Google Drive&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

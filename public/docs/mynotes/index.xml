@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Notes | Đỗ Nam Blog</title>
+    <link>https://donam.vn/docs/mynotes/</link>
+      <atom:link href="https://donam.vn/docs/mynotes/index.xml" rel="self" type="application/rss+xml" />
+    <description>My Notes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Đỗ Nam - Donam.vn</copyright><lastBuildDate>Mon, 07 Jun 2021 10:52:28 +0700</lastBuildDate>
+    <image>
+      <url>https://donam.vn/media/icon_hub0b31b2e0a82eb7811d72d963610ed94_55975_512x512_fill_lanczos_center_2.png</url>
+      <title>My Notes</title>
+      <link>https://donam.vn/docs/mynotes/</link>
+    </image>
+    
+    <item>
+      <title>1. Get Link Direct Google Drive</title>
+      <link>https://donam.vn/docs/mynotes/1getdirectlinkgd/</link>
+      <pubDate>Mon, 07 Jun 2021 14:53:26 +0700</pubDate>
+      <guid>https://donam.vn/docs/mynotes/1getdirectlinkgd/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Get link shareable&lt;/li&gt;
+&lt;li&gt;Get &lt;strong&gt;ID file&lt;/strong&gt; and paste here&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/uc?id=&#34;&gt;https://drive.google.com/uc?id=&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2. Set Storage Onedrive</title>
+      <link>https://donam.vn/docs/mynotes/2setstoreageonedrive/</link>
+      <pubDate>Mon, 07 Jun 2021 16:04:47 +0700</pubDate>
+      <guid>https://donam.vn/docs/mynotes/2setstoreageonedrive/</guid>
+      <description>&lt;p&gt;You must have known that OneDrive for Business storage has a limitation of 1TB but what if you have utilized the full capacity (1TB). There is no such announcement for the same, but the limit is not 1TB.  &lt;strong&gt;In this article, we will see how we can increase the storage capacity for OneDrive for Business up to 5TB through PowerShell.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As per one of the Microsoft articles “&lt;strong&gt;If your organization has a qualifying Office 365 plan and 5 or more users, you can change the storage space to more than 5TB&lt;/strong&gt;”. So as per this statement, we can get more than 5TB as well. That means the limitation is not 5TB as well.&lt;/p&gt;
+&lt;p&gt;Increasing the storage from 1TB to 5TB can be done with the help of your Microsoft 365 Administrator through PowerShell, but going beyond 5TB, you will need the help of Microsoft Support with justification and then it might get increased up to 25TB quota.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://drive.google.com/uc?id=1M7NAsAb8673dFIH61mwRdPpK1wQ3boyt&#34; alt=&#34;Infographic&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pre-requisites:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Download SharePoint Online Management Shell.
+**&lt;a href=&#34;https://www.microsoft.com/en-us/download/details.aspx?id=35588&#34;&gt;https://www.microsoft.com/en-us/download/details.aspx?id=35588&lt;/a&gt;
+**&lt;/li&gt;
+&lt;li&gt;Connect to SharePoint Online through PowerShell.
+&lt;strong&gt;&lt;em&gt;$adminUPN=”&lt;the full email address of administrator account&gt;”
+$orgName=”&amp;lt;name of your Office 365 organization&amp;gt;”&lt;/em&gt;&lt;/strong&gt;&lt;img src=&#34;https://cdn-angbj.nitrocdn.com/shObXeyLxXflGAhcIcxEKCbyevxxnCNO/assets/static/optimized/rev-0abd59b/wp-content/uploads/2020/02/1-9.png&#34; alt=&#34;Connecting to SPO PowerShell&#34;&gt;
+&lt;strong&gt;&lt;em&gt;$userCredential = Get-Credential -UserName &lt;the full email address of administrator account&gt;
+&lt;em&gt;&lt;strong&gt;This is prompt to enter Message, enter the admin account password and hit enter.&lt;img src=&#34;https://cdn-angbj.nitrocdn.com/shObXeyLxXflGAhcIcxEKCbyevxxnCNO/assets/static/optimized/rev-0abd59b/wp-content/uploads/2020/02/2-11.png&#34; alt=&#34;SPO Admin Credentials&#34;&gt;&lt;/strong&gt;&lt;/em&gt;
+Connect-SPOService -Url https://$orgName-admin.sharepoint.com -Credential $userCredential
+&lt;em&gt;**You will be prompted to provide admin credentials.
+**&lt;/em&gt;
+&lt;img src=&#34;https://cdn-angbj.nitrocdn.com/shObXeyLxXflGAhcIcxEKCbyevxxnCNO/assets/static/optimized/rev-0abd59b/wp-content/uploads/2020/02/3-11.png&#34; alt=&#34;Connect SPO Site&#34;&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;**Increasing the storage quota for OneDrive for Business:
+**&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Check the current set quota for a user.
+&lt;strong&gt;&lt;em&gt;Get-SPOSite -Identity &amp;lt;User’s OneDrive URL&amp;gt; | select $StorageQuota&lt;/em&gt;&lt;/strong&gt;
+&lt;strong&gt;Note: – Storage quota is in MB.&lt;/strong&gt;&lt;img src=&#34;https://cdn-angbj.nitrocdn.com/shObXeyLxXflGAhcIcxEKCbyevxxnCNO/assets/static/optimized/rev-0abd59b/wp-content/uploads/2020/02/4-10.png&#34; alt=&#34;Check Storage for a user&#34;&gt;&lt;/li&gt;
+&lt;li&gt;Change the storage quota for a specific user.
+**_Set-SPOSite -Identity &amp;lt;User’s OneDrive URL&amp;gt; -StorageQuota $StorageSize
+_Note: – Replace  &lt;em&gt;$StorageSize&lt;/em&gt;  with 5242880 (MB) which is 5TB
+**&lt;/li&gt;
+&lt;li&gt;To verify the change, run cmd  &lt;strong&gt;_Get-SPOSite -Identity &amp;lt;User’s OneDrive URL&amp;gt; | select $StorageQuota
+&lt;img src=&#34;https://cdn-angbj.nitrocdn.com/shObXeyLxXflGAhcIcxEKCbyevxxnCNO/assets/static/optimized/rev-0abd59b/wp-content/uploads/2020/02/5-10.png&#34; alt=&#34;Set storage for a user&#34;&gt;
+_&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can also verify the same from  &lt;strong&gt;Office 365 Admin Center &amp;gt; Active Users &amp;gt; Select User &amp;gt; OneDrive.&lt;/strong&gt;
+&lt;img src=&#34;https://cdn-angbj.nitrocdn.com/shObXeyLxXflGAhcIcxEKCbyevxxnCNO/assets/static/optimized/rev-0abd59b/wp-content/uploads/2020/02/6-9.png&#34; alt=&#34;Verify &#34;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This article will help you to increase storage quota for OneDrive for Business up to 5TB without any need of calling Microsoft Support. If you need to increase it more than 5TB then you will need to take help from Microsoft Support with justification. Thanks!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
